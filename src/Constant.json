@@ -1,0 +1,54 @@
+{
+    "experiences": [
+        {
+            "company": "Optimasedge LLP",
+            "link": "/",
+            "title": "Frontend Developer",
+            "duration": "Nov 2021 - Present",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Developed website using Elementor (drag-and-drop page builder) inWordPress.",
+                "Bringing mock-ups to life using HTML, CSS, JavaScript.",
+                "Building websites and apps that are responsive and usable"
+            ]
+        },
+        {
+            "company": "Modern Enterprise Pvt. Ltd.",
+            "link": "/",
+            "title": "Jr. Frontend Developer",
+            "duration": "May 2021 - Oct 2021",
+            "desc": [
+                "Building stable and maintainable codebases using Bootstrap 5.",
+                "Implementing a mobile-first approach to existing websites.",
+                "Creating modular, responsive templates using modern CSS techniques and JavaScript library (jQuery).",
+                "Working directly with client stakeholders to develop technical solutions for business cases."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Covid Awareness Website",
+            "image": "./images/covid.png",
+            "desc": "Built a website to involve the general guidelines thatpeople must follow, the need and importance of vaccination, and the need to stay in isolation in case one experiences symptoms",
+            "skills": ["HTML5", "CSS", "Bootstrap5"],
+            "github": "/",
+            "link": ""
+        },
+        {
+            "title":"Optimasedge",
+            "image": "./images/optimasedge.png",
+            "desc": "Optimasedge official website",
+            "skills": ["Wordpress", "Elementor pro"],
+            "github": "/",
+            "link": "/"
+        },
+        {
+            "title":"Dashboard",
+            "image": "./images/dashboard.png",
+            "desc": "Custom Dashboard",
+            "skills": ["Bootstrap5", "CSS3", "JavaScript"],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}
