@@ -8,16 +8,15 @@ function About() {
       <div className={styles.container}>
         <div className={styles.left}>
           <p className={styles.desc}>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            I am Pratip Kayal from Kolkata, West Bengal, I am 26 years old.
+            I completed my schooling from my home town Diamond Harbour and
+            completed my graduation from St. Thomas College of Engineering and
+            Technology with a degree of Information Technology in the year of
+            2020.
           </p>
           <p className={styles.desc}>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            I have in hand experience in HTML5,CSS3,Bootstrap5,JavaScript,
+            jQuery,React.js,Redux and WordPress. 
           </p>
         </div>
         <div className={styles.right}>

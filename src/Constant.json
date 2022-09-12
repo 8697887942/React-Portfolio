@@ -6,7 +6,7 @@
             "title": "Frontend Developer",
             "duration": "Nov 2021 - Present",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Documenting bug reports, tickets, and any code changes.",
                 "Developed website using Elementor (drag-and-drop page builder) inWordPress.",
                 "Bringing mock-ups to life using HTML, CSS, JavaScript.",
                 "Building websites and apps that are responsive and usable"
@@ -20,8 +20,8 @@
             "desc": [
                 "Building stable and maintainable codebases using Bootstrap 5.",
                 "Implementing a mobile-first approach to existing websites.",
-                "Creating modular, responsive templates using modern CSS techniques and JavaScript library (jQuery).",
-                "Working directly with client stakeholders to develop technical solutions for business cases."
+                "Creating modular, responsive templates using modern CSS techniques.",
+                "Working directly with client stakeholders to develop technical solutions."
             ]
         }
     ],
